@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Возвращение обьектов из функций/1.0.0": {
+        "runtime": {
+          "Возвращение обьектов из функций.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Возвращение обьектов из функций/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

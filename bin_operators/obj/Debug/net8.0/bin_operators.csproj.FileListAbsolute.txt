@@ -1,0 +1,15 @@
+/home/bwl_andromeda/programming/C-/bin_operators/bin/Debug/net8.0/bin_operators
+/home/bwl_andromeda/programming/C-/bin_operators/bin/Debug/net8.0/bin_operators.deps.json
+/home/bwl_andromeda/programming/C-/bin_operators/bin/Debug/net8.0/bin_operators.runtimeconfig.json
+/home/bwl_andromeda/programming/C-/bin_operators/bin/Debug/net8.0/bin_operators.dll
+/home/bwl_andromeda/programming/C-/bin_operators/bin/Debug/net8.0/bin_operators.pdb
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.AssemblyInfoInputs.cache
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.AssemblyInfo.cs
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.csproj.CoreCompileInputs.cache
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.sourcelink.json
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.dll
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/refint/bin_operators.dll
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.pdb
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/bin_operators.genruntimeconfig.cache
+/home/bwl_andromeda/programming/C-/bin_operators/obj/Debug/net8.0/ref/bin_operators.dll

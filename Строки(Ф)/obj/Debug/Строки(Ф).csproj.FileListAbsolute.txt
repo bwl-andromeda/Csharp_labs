@@ -1,0 +1,10 @@
+C:\repository\C#\Строки(Ф)\bin\Debug\Строки(Ф).exe.config
+C:\repository\C#\Строки(Ф)\bin\Debug\Строки(Ф).exe
+C:\repository\C#\Строки(Ф)\bin\Debug\Строки(Ф).pdb
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки(Ф).csproj.AssemblyReference.cache
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки_Ф_.Form1.resources
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки_Ф_.Properties.Resources.resources
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки(Ф).csproj.GenerateResource.cache
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки(Ф).csproj.CoreCompileInputs.cache
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки(Ф).exe
+C:\repository\C#\Строки(Ф)\obj\Debug\Строки(Ф).pdb

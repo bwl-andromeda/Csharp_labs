@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ООЯП", "ООЯП.shproj", "{C67ED003-AF07-40A2-98FF-EBE48AA22733}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bin_operators", "bin_operators\bin_operators.csproj", "{5A26FAE5-180F-4E1E-8CC5-9061E94B24BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "params", "params\params.csproj", "{65C7ADE9-13C6-4DCB-A9DC-EC90E057EE08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref_out", "ref_out\ref_out.csproj", "{8EDDD405-E818-47AA-81CA-8960E3A83ECB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Возвращение обьектов из функций", "Возвращение обьектов из функций\Возвращение обьектов из функций.csproj", "{D0FF3839-CB96-4461-8D9C-46F8F79C2274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Двумерный массив", "Двумерный массив\Двумерный массив.csproj", "{8750BABA-B02A-49B9-B836-7B88380801FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Двумерный массив(Ф)", "Двумерный массив(Ф)\Двумерный массив(Ф).csproj", "{94187C69-08D8-478A-8A9B-5B10A00BF236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Одномерный массив(Ф)", "Одномерный массив(Ф)\Одномерный массив(Ф).csproj", "{A8D48DF9-AA9F-4382-9FD4-E0D7F61DE448}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Одномерный массив", "Одномерный массив\Одномерный массив.csproj", "{3A95DB5C-8D99-4B4D-8D84-8B85E29A0455}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Передача_объектов_в_функции", "Передача_объектов_в_функции\Передача_объектов_в_функции.csproj", "{841C5C28-3DD4-4838-BFA0-D8D3FFC5CA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Строки(Ф)", "Строки(Ф)\Строки(Ф).csproj", "{FF695095-A191-424D-A364-0B97E5C7F864}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Строки(Формы)", "Строки(Формы)\Строки(Формы).csproj", "{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A26FAE5-180F-4E1E-8CC5-9061E94B24BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26FAE5-180F-4E1E-8CC5-9061E94B24BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26FAE5-180F-4E1E-8CC5-9061E94B24BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26FAE5-180F-4E1E-8CC5-9061E94B24BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C7ADE9-13C6-4DCB-A9DC-EC90E057EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C7ADE9-13C6-4DCB-A9DC-EC90E057EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C7ADE9-13C6-4DCB-A9DC-EC90E057EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C7ADE9-13C6-4DCB-A9DC-EC90E057EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDDD405-E818-47AA-81CA-8960E3A83ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDDD405-E818-47AA-81CA-8960E3A83ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDDD405-E818-47AA-81CA-8960E3A83ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDDD405-E818-47AA-81CA-8960E3A83ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FF3839-CB96-4461-8D9C-46F8F79C2274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FF3839-CB96-4461-8D9C-46F8F79C2274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FF3839-CB96-4461-8D9C-46F8F79C2274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FF3839-CB96-4461-8D9C-46F8F79C2274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8750BABA-B02A-49B9-B836-7B88380801FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8750BABA-B02A-49B9-B836-7B88380801FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8750BABA-B02A-49B9-B836-7B88380801FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8750BABA-B02A-49B9-B836-7B88380801FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94187C69-08D8-478A-8A9B-5B10A00BF236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94187C69-08D8-478A-8A9B-5B10A00BF236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94187C69-08D8-478A-8A9B-5B10A00BF236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94187C69-08D8-478A-8A9B-5B10A00BF236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D48DF9-AA9F-4382-9FD4-E0D7F61DE448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D48DF9-AA9F-4382-9FD4-E0D7F61DE448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D48DF9-AA9F-4382-9FD4-E0D7F61DE448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D48DF9-AA9F-4382-9FD4-E0D7F61DE448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A95DB5C-8D99-4B4D-8D84-8B85E29A0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A95DB5C-8D99-4B4D-8D84-8B85E29A0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A95DB5C-8D99-4B4D-8D84-8B85E29A0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A95DB5C-8D99-4B4D-8D84-8B85E29A0455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841C5C28-3DD4-4838-BFA0-D8D3FFC5CA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841C5C28-3DD4-4838-BFA0-D8D3FFC5CA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841C5C28-3DD4-4838-BFA0-D8D3FFC5CA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841C5C28-3DD4-4838-BFA0-D8D3FFC5CA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF695095-A191-424D-A364-0B97E5C7F864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF695095-A191-424D-A364-0B97E5C7F864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF695095-A191-424D-A364-0B97E5C7F864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF695095-A191-424D-A364-0B97E5C7F864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE6C946-8F10-435C-9FD4-4CC03A408CCB}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ООЯП.projitems*{c67ed003-af07-40a2-98ff-ebe48aa22733}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

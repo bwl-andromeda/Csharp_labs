@@ -1,0 +1,14 @@
+C:\repository\C#\Одномерный массив\bin\Debug\net8.0\Одномерный массив.exe
+C:\repository\C#\Одномерный массив\bin\Debug\net8.0\Одномерный массив.deps.json
+C:\repository\C#\Одномерный массив\bin\Debug\net8.0\Одномерный массив.runtimeconfig.json
+C:\repository\C#\Одномерный массив\bin\Debug\net8.0\Одномерный массив.dll
+C:\repository\C#\Одномерный массив\bin\Debug\net8.0\Одномерный массив.pdb
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.AssemblyInfoInputs.cache
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.AssemblyInfo.cs
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.csproj.CoreCompileInputs.cache
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.dll
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\refint\Одномерный массив.dll
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.pdb
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\Одномерный массив.genruntimeconfig.cache
+C:\repository\C#\Одномерный массив\obj\Debug\net8.0\ref\Одномерный массив.dll

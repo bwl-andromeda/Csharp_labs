@@ -1,0 +1,14 @@
+C:\repository\C#\Двумерный массив\bin\Debug\net8.0\Двумерный массив.exe
+C:\repository\C#\Двумерный массив\bin\Debug\net8.0\Двумерный массив.deps.json
+C:\repository\C#\Двумерный массив\bin\Debug\net8.0\Двумерный массив.runtimeconfig.json
+C:\repository\C#\Двумерный массив\bin\Debug\net8.0\Двумерный массив.dll
+C:\repository\C#\Двумерный массив\bin\Debug\net8.0\Двумерный массив.pdb
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.AssemblyInfoInputs.cache
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.AssemblyInfo.cs
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.csproj.CoreCompileInputs.cache
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.dll
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\refint\Двумерный массив.dll
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.pdb
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\Двумерный массив.genruntimeconfig.cache
+C:\repository\C#\Двумерный массив\obj\Debug\net8.0\ref\Двумерный массив.dll

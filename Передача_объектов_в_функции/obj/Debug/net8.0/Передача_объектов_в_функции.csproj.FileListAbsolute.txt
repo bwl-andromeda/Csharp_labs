@@ -1,0 +1,14 @@
+C:\repository\C#\Передача_объектов_в_функции\bin\Debug\net8.0\Передача_объектов_в_функции.exe
+C:\repository\C#\Передача_объектов_в_функции\bin\Debug\net8.0\Передача_объектов_в_функции.deps.json
+C:\repository\C#\Передача_объектов_в_функции\bin\Debug\net8.0\Передача_объектов_в_функции.runtimeconfig.json
+C:\repository\C#\Передача_объектов_в_функции\bin\Debug\net8.0\Передача_объектов_в_функции.dll
+C:\repository\C#\Передача_объектов_в_функции\bin\Debug\net8.0\Передача_объектов_в_функции.pdb
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.AssemblyInfoInputs.cache
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.AssemblyInfo.cs
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.csproj.CoreCompileInputs.cache
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.dll
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\refint\Передача_объектов_в_функции.dll
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.pdb
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\Передача_объектов_в_функции.genruntimeconfig.cache
+C:\repository\C#\Передача_объектов_в_функции\obj\Debug\net8.0\ref\Передача_объектов_в_функции.dll

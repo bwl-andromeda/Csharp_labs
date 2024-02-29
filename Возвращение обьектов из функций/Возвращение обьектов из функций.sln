@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Возвращение обьектов из функций", "Возвращение обьектов из функций.csproj", "{3324FF22-C210-4A3D-822D-ABD9F539CA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3324FF22-C210-4A3D-822D-ABD9F539CA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3324FF22-C210-4A3D-822D-ABD9F539CA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3324FF22-C210-4A3D-822D-ABD9F539CA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3324FF22-C210-4A3D-822D-ABD9F539CA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A3B1AB-0A7F-4980-95F7-DD5AE2D0812A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\repository\C#\Одномерный массив(Ф)\bin\Debug\Одномерный массив(Ф).exe.config
+C:\repository\C#\Одномерный массив(Ф)\bin\Debug\Одномерный массив(Ф).exe
+C:\repository\C#\Одномерный массив(Ф)\bin\Debug\Одномерный массив(Ф).pdb
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный массив(Ф).csproj.AssemblyReference.cache
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный_массив_Ф_.Form1.resources
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный_массив_Ф_.Properties.Resources.resources
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный массив(Ф).csproj.GenerateResource.cache
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный массив(Ф).csproj.CoreCompileInputs.cache
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный массив(Ф).exe
+C:\repository\C#\Одномерный массив(Ф)\obj\Debug\Одномерный массив(Ф).pdb
