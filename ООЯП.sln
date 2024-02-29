@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Строки(Формы)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы", "Интерфейсы\Интерфейсы.csproj", "{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наследование", "Наследование\Наследование.csproj", "{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

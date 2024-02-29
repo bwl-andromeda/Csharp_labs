@@ -1,0 +1,15 @@
+C:\repository\ООЯП\Наследование\bin\Debug\net8.0\Наследование.exe
+C:\repository\ООЯП\Наследование\bin\Debug\net8.0\Наследование.deps.json
+C:\repository\ООЯП\Наследование\bin\Debug\net8.0\Наследование.runtimeconfig.json
+C:\repository\ООЯП\Наследование\bin\Debug\net8.0\Наследование.dll
+C:\repository\ООЯП\Наследование\bin\Debug\net8.0\Наследование.pdb
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.AssemblyInfoInputs.cache
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.AssemblyInfo.cs
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.sourcelink.json
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.dll
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\refint\Наследование.dll
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.pdb
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\Наследование.genruntimeconfig.cache
+C:\repository\ООЯП\Наследование\obj\Debug\net8.0\ref\Наследование.dll
