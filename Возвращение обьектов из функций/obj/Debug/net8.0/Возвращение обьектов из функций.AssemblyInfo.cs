@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Возвращение обьектов из функций")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06218c4b37ff787df1db3a8b44bae13844d23124")]
 [assembly: System.Reflection.AssemblyProductAttribute("Возвращение обьектов из функций")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Возвращение обьектов из функций")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

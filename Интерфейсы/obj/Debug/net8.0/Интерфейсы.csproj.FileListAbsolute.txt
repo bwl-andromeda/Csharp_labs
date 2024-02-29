@@ -1,0 +1,15 @@
+C:\repository\ООЯП\Интерфейсы\bin\Debug\net8.0\Интерфейсы.exe
+C:\repository\ООЯП\Интерфейсы\bin\Debug\net8.0\Интерфейсы.deps.json
+C:\repository\ООЯП\Интерфейсы\bin\Debug\net8.0\Интерфейсы.runtimeconfig.json
+C:\repository\ООЯП\Интерфейсы\bin\Debug\net8.0\Интерфейсы.dll
+C:\repository\ООЯП\Интерфейсы\bin\Debug\net8.0\Интерфейсы.pdb
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.AssemblyInfoInputs.cache
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.AssemblyInfo.cs
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.sourcelink.json
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.dll
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\refint\Интерфейсы.dll
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.pdb
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\Интерфейсы.genruntimeconfig.cache
+C:\repository\ООЯП\Интерфейсы\obj\Debug\net8.0\ref\Интерфейсы.dll

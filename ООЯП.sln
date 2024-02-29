@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Строки(Ф)", "Стр�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Строки(Формы)", "Строки(Формы)\Строки(Формы).csproj", "{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы", "Интерфейсы\Интерфейсы.csproj", "{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
