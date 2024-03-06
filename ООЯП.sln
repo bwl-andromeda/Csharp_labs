@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Передача_объек
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Строки(Ф)", "Строки(Ф)\Строки(Ф).csproj", "{FF695095-A191-424D-A364-0B97E5C7F864}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Строки(Формы)", "Строки(Формы)\Строки(Формы).csproj", "{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Интерфейсы", "Интерфейсы\Интерфейсы.csproj", "{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы", "Интерфейсы\Интерфейсы.csproj", "{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Наследование", "Наследование\Наследование.csproj", "{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наследование", "Наследование\Наследование.csproj", "{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Структуры", "Структуры\Структуры.csproj", "{274650C8-BA38-4F44-966D-565812894C70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Файлы(Обычные)", "Файлы(Обычные)\Файлы(Обычные).csproj", "{224C3B72-FDA5-493B-8ACC-D40EBA18025E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +79,6 @@ Global
 		{FF695095-A191-424D-A364-0B97E5C7F864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF695095-A191-424D-A364-0B97E5C7F864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF695095-A191-424D-A364-0B97E5C7F864}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E97860EC-50F0-4BB5-B7AF-CC71C4EDA96E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A669E733-16E8-4B57-B7DF-E82CF91AC7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -89,6 +87,14 @@ Global
 		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94496FDA-CC8A-437A-A6C4-CFD5B7DFFEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274650C8-BA38-4F44-966D-565812894C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274650C8-BA38-4F44-966D-565812894C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274650C8-BA38-4F44-966D-565812894C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274650C8-BA38-4F44-966D-565812894C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

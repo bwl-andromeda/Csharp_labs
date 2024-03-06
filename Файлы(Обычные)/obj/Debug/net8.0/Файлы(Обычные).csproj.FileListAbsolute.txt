@@ -1,0 +1,15 @@
+C:\repository\ООЯП\Файлы(Обычные)\bin\Debug\net8.0\Файлы(Обычные).exe
+C:\repository\ООЯП\Файлы(Обычные)\bin\Debug\net8.0\Файлы(Обычные).deps.json
+C:\repository\ООЯП\Файлы(Обычные)\bin\Debug\net8.0\Файлы(Обычные).runtimeconfig.json
+C:\repository\ООЯП\Файлы(Обычные)\bin\Debug\net8.0\Файлы(Обычные).dll
+C:\repository\ООЯП\Файлы(Обычные)\bin\Debug\net8.0\Файлы(Обычные).pdb
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).AssemblyInfoInputs.cache
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).AssemblyInfo.cs
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).sourcelink.json
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).dll
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\refint\Файлы(Обычные).dll
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).pdb
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\Файлы(Обычные).genruntimeconfig.cache
+C:\repository\ООЯП\Файлы(Обычные)\obj\Debug\net8.0\ref\Файлы(Обычные).dll
