@@ -1,0 +1,15 @@
+C:\repository\ООЯП\Структуры\bin\Debug\net8.0\Структуры.exe
+C:\repository\ООЯП\Структуры\bin\Debug\net8.0\Структуры.deps.json
+C:\repository\ООЯП\Структуры\bin\Debug\net8.0\Структуры.runtimeconfig.json
+C:\repository\ООЯП\Структуры\bin\Debug\net8.0\Структуры.dll
+C:\repository\ООЯП\Структуры\bin\Debug\net8.0\Структуры.pdb
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.AssemblyInfoInputs.cache
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.AssemblyInfo.cs
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.sourcelink.json
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.dll
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\refint\Структуры.dll
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.pdb
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\Структуры.genruntimeconfig.cache
+C:\repository\ООЯП\Структуры\obj\Debug\net8.0\ref\Структуры.dll

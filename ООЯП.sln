@@ -33,6 +33,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Структуры", "Ст�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Файлы(Обычные)", "Файлы(Обычные)\Файлы(Обычные).csproj", "{224C3B72-FDA5-493B-8ACC-D40EBA18025E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Индексаторы_and_Свойства", "Индексаторы_and_Свойства\Индексаторы_and_Свойства.csproj", "{363EEFB6-4C43-4F0B-A0E7-9B35B3AA1244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Бинарные файлы", "..\Бинарные файлы\Бинарные файлы.csproj", "{5464FC45-F835-4131-BBCE-F5B96E3D09AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +99,14 @@ Global
 		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224C3B72-FDA5-493B-8ACC-D40EBA18025E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363EEFB6-4C43-4F0B-A0E7-9B35B3AA1244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363EEFB6-4C43-4F0B-A0E7-9B35B3AA1244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363EEFB6-4C43-4F0B-A0E7-9B35B3AA1244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363EEFB6-4C43-4F0B-A0E7-9B35B3AA1244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5464FC45-F835-4131-BBCE-F5B96E3D09AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5464FC45-F835-4131-BBCE-F5B96E3D09AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5464FC45-F835-4131-BBCE-F5B96E3D09AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5464FC45-F835-4131-BBCE-F5B96E3D09AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,7 +20,7 @@ class Program
         }
         catch (FileNotFoundException)
         {
-            Console.WriteLine("Не удалось найти файл с входными данными.");
+            Console.WriteLine("Не удалось найти файл с входн    ыми данными.");
         }
         catch (Exception ex)
         {

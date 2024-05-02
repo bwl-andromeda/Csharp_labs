@@ -1,0 +1,14 @@
+C:\repository\Бинарные файлы\bin\Debug\net8.0\Бинарные файлы.exe
+C:\repository\Бинарные файлы\bin\Debug\net8.0\Бинарные файлы.deps.json
+C:\repository\Бинарные файлы\bin\Debug\net8.0\Бинарные файлы.runtimeconfig.json
+C:\repository\Бинарные файлы\bin\Debug\net8.0\Бинарные файлы.dll
+C:\repository\Бинарные файлы\bin\Debug\net8.0\Бинарные файлы.pdb
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.AssemblyInfoInputs.cache
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.AssemblyInfo.cs
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.csproj.CoreCompileInputs.cache
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.dll
+C:\repository\Бинарные файлы\obj\Debug\net8.0\refint\Бинарные файлы.dll
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.pdb
+C:\repository\Бинарные файлы\obj\Debug\net8.0\Бинарные файлы.genruntimeconfig.cache
+C:\repository\Бинарные файлы\obj\Debug\net8.0\ref\Бинарные файлы.dll

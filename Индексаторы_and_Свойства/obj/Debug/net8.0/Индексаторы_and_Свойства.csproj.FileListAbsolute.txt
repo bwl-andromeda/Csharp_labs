@@ -1,0 +1,15 @@
+C:\repository\ООЯП\Индексаторы_and_Свойства\bin\Debug\net8.0\Индексаторы_and_Свойства.exe
+C:\repository\ООЯП\Индексаторы_and_Свойства\bin\Debug\net8.0\Индексаторы_and_Свойства.deps.json
+C:\repository\ООЯП\Индексаторы_and_Свойства\bin\Debug\net8.0\Индексаторы_and_Свойства.runtimeconfig.json
+C:\repository\ООЯП\Индексаторы_and_Свойства\bin\Debug\net8.0\Индексаторы_and_Свойства.dll
+C:\repository\ООЯП\Индексаторы_and_Свойства\bin\Debug\net8.0\Индексаторы_and_Свойства.pdb
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.AssemblyInfoInputs.cache
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.AssemblyInfo.cs
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.sourcelink.json
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.dll
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\refint\Индексаторы_and_Свойства.dll
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.pdb
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\Индексаторы_and_Свойства.genruntimeconfig.cache
+C:\repository\ООЯП\Индексаторы_and_Свойства\obj\Debug\net8.0\ref\Индексаторы_and_Свойства.dll

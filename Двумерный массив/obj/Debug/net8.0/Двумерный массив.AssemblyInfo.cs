@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Двумерный массив")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d641cb57773c8dd15c44ce694df5b51f1e9df0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78f4434a3359bb17bb5b097b68975cc36f283f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Двумерный массив")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Двумерный массив")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

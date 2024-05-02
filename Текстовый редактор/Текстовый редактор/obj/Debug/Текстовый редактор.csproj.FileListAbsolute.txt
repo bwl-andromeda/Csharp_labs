@@ -1,0 +1,11 @@
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\bin\Debug\Текстовый редактор.exe.config
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\bin\Debug\Текстовый редактор.exe
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\bin\Debug\Текстовый редактор.pdb
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый редактор.csproj.AssemblyReference.cache
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый_редактор.pashalka.resources
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый_редактор.Form1.resources
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый_редактор.Properties.Resources.resources
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый редактор.csproj.GenerateResource.cache
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый редактор.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый редактор.exe
+C:\repository\ООЯП\Текстовый редактор\Текстовый редактор\obj\Debug\Текстовый редактор.pdb

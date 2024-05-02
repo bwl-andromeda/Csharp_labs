@@ -1,0 +1,7 @@
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\obj\Debug\Interface(Шифрование).csproj.AssemblyReference.cache
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\obj\Debug\Interface(Шифрование).csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\bin\Debug\Interface(Шифрование).exe.config
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\bin\Debug\Interface(Шифрование).exe
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\bin\Debug\Interface(Шифрование).pdb
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\obj\Debug\Interface(Шифрование).exe
+C:\repository\ООЯП\Текстовый редактор\Interface(Шифрование)\obj\Debug\Interface(Шифрование).pdb

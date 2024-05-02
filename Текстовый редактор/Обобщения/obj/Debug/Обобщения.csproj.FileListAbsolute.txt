@@ -1,0 +1,7 @@
+C:\repository\ООЯП\Текстовый редактор\Обобщения\bin\Debug\Обобщения.exe.config
+C:\repository\ООЯП\Текстовый редактор\Обобщения\bin\Debug\Обобщения.exe
+C:\repository\ООЯП\Текстовый редактор\Обобщения\bin\Debug\Обобщения.pdb
+C:\repository\ООЯП\Текстовый редактор\Обобщения\obj\Debug\Обобщения.csproj.AssemblyReference.cache
+C:\repository\ООЯП\Текстовый редактор\Обобщения\obj\Debug\Обобщения.csproj.CoreCompileInputs.cache
+C:\repository\ООЯП\Текстовый редактор\Обобщения\obj\Debug\Обобщения.exe
+C:\repository\ООЯП\Текстовый редактор\Обобщения\obj\Debug\Обобщения.pdb
